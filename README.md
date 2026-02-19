@@ -1,5 +1,5 @@
-# RAG-Financial-Named-Entity-Recognition
-A retrieval-augmented financial NER system that extracts structured financial entities from large collections of financial news and reports.
+# Financial-RAG-API
+A retrieval-augmented financial extraction system that pulls structured data and insights from large collections of financial news and reports
 
 ## Installation and Launch
 

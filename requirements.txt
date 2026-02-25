@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pydantic-settings
+google-generativeai
+python-dotenv
+pgvector                
+pypdf                 
+langchain-text-splitters 
+python-multipart       
